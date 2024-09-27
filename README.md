@@ -52,11 +52,11 @@ Start Button: A button to start the continuous speech recognition process.
 
 ## Key Functions
 
-## capture_speech(): Captures Hindi speech input from the microphone using the speech_recognition library.
-## translate_text(): Translates the recognized Hindi text to English using googletrans.
-## run_speech_to_text(): Orchestrates the speech capture and translation process, displaying both texts in the text editor.
-## continuous_listening(): Continuously listens for speech at random intervals between 5 and 10 seconds.
-## start_listening(): Starts the continuous listening function in a separate thread to avoid freezing the GUI.
+# capture_speech(): Captures Hindi speech input from the microphone using the speech_recognition library.
+# translate_text(): Translates the recognized Hindi text to English using googletrans.
+# run_speech_to_text(): Orchestrates the speech capture and translation process, displaying both texts in the text editor.
+# continuous_listening(): Continuously listens for speech at random intervals between 5 and 10 seconds.
+# start_listening(): Starts the continuous listening function in a separate thread to avoid freezing the GUI.
 
 ## License
 This project is open-source. Feel free to modify and distribute it.
